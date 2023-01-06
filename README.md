@@ -12,18 +12,8 @@
 
 ## [6. La piste indomptable](https://github.com/MichelTerrier/Sous-les-mamelles/blob/main/06.%20La%20piste%20indomptable.pdf)
 
-## [7. La piste indomptable (suite)](https://github.com/MichelTerrier/Sous-les-mamelles/blob/main/07.%20La%20piste%20indomptable%20(suite).pdf)
+## [9. Mise à feu du premier étage](https://github.com/MichelTerrier/Sous-les-mamelles/blob/main/12.%20Mise%20%C3%A0%20feu%20du%20premier%20%C3%A9tage.pdf)
 
-## [8. Les amoureux des Mamelles](https://github.com/MichelTerrier/Sous-les-mamelles/blob/main/08.%20Les%20amoureux%20des%20Mamelles.pdf)
+## [10. Mise à feu du deuxième étage](https://github.com/MichelTerrier/Sous-les-mamelles/blob/main/13.%20Mise%20%C3%A0%20feu%20du%20deuxi%C3%A8me%20%C3%A9tage.pdf)
 
-## [9. Les amoureux des Mamelles (suite)](https://github.com/MichelTerrier/Sous-les-mamelles/blob/main/09.%20Les%20amoureux%20des%20Mamelles%20(suite).pdf)
-
-## [10. Compte à rebours](https://github.com/MichelTerrier/Sous-les-mamelles/blob/main/10.%20Compte%20%C3%A0%20rebours.pdf)
-
-## [11. Compte à rebours (suite)](https://github.com/MichelTerrier/Sous-les-mamelles/blob/main/11.%20Compte%20%C3%A0%20rebours%20(suite).pdf)
-
-## [12. Mise à feu du premier étage](https://github.com/MichelTerrier/Sous-les-mamelles/blob/main/12.%20Mise%20%C3%A0%20feu%20du%20premier%20%C3%A9tage.pdf)
-
-## [13. Mise à feu du deuxième étage](https://github.com/MichelTerrier/Sous-les-mamelles/blob/main/13.%20Mise%20%C3%A0%20feu%20du%20deuxi%C3%A8me%20%C3%A9tage.pdf)
-
-## [14. Objectif atteint, cible coulée !](https://github.com/MichelTerrier/Sous-les-mamelles/blob/main/14.%20Objectif%20atteint%2C%20cible%20coul%C3%A9e%20!.pdf)
+## [11. Objectif atteint, cible coulée !](https://github.com/MichelTerrier/Sous-les-mamelles/blob/main/14.%20Objectif%20atteint%2C%20cible%20coul%C3%A9e%20!.pdf)
